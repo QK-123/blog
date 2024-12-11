@@ -81,6 +81,10 @@ function linux_sidebar(){
     {
       text: 'Linux 权限管理体系',
       link: '/linux/linux-permission-manage'
+    },
+    {
+      text: '性能工程手册',
+      link: '/linux/perf-handbook'
     }
   ]
 }
