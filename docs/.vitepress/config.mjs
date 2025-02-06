@@ -108,6 +108,10 @@ function devops_sidebar (){
       text: 'Python 高性能编程',
       link: '/devops/python-high-performance'
     },
+    {
+      text: '云原生应用的模式和技术',
+      link: '/devops/cloud-native-application-patterns'
+    },
   ]
 }
 
