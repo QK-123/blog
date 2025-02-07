@@ -112,6 +112,10 @@ function devops_sidebar (){
       text: '云原生应用的模式和技术',
       link: '/devops/cloud-native-application-patterns'
     },
+    {
+      text: 'Spring Boot 云原生开发：入门指南',
+      link: '/devops/spring-boot-in-cloud-toturial'
+    }
   ]
 }
 
