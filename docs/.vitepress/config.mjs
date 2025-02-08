@@ -115,6 +115,10 @@ function devops_sidebar (){
     {
       text: 'Spring Boot 云原生开发：入门指南',
       link: '/devops/spring-boot-in-cloud-toturial'
+    },
+    {
+      text: 'Spring 应用中的外部化配置管理-1',
+      link: '/devops/externalized-configuration-management-in-spring-applications-part-1'
     }
   ]
 }
