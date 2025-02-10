@@ -119,6 +119,10 @@ function devops_sidebar (){
     {
       text: 'Spring 应用中的外部化配置管理-1',
       link: '/devops/externalized-configuration-management-in-spring-applications-part-1'
+    },
+    {
+      text: 'Spring 应用中的外部化配置管理-2',
+      link: '/devops/externalized-configuration-management-in-spring-applications-part-2'
     }
   ]
 }
