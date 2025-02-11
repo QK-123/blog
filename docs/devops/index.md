@@ -7,3 +7,4 @@
 - [Spring Boot 云原生开发：入门指南](/devops/spring-boot-in-cloud-toturial.md)
 - [Spring 应用中的外部化配置管理-1](/devops/externalized-configuration-management-in-spring-applications-part-1.md)
 - [Spring Boot 应用的外部化配置-2](/devops/externalized-configuration-management-in-spring-applications-part-2.md)
+- [云原生系统中的数据库](/devops/spring-boot-in-cloud-db.md)

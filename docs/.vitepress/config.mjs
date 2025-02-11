@@ -123,7 +123,11 @@ function devops_sidebar (){
     {
       text: 'Spring 应用中的外部化配置管理-2',
       link: '/devops/externalized-configuration-management-in-spring-applications-part-2'
-    }
+    },
+    {
+      text: '云原生系统中的数据库',
+      link: '/devops/spring-boot-in-cloud-db'
+    },
   ]
 }
 
